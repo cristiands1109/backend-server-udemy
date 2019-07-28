@@ -1,0 +1,1 @@
+module.exports.SEED = 'Aeste-esA-un-seed-dificil';
